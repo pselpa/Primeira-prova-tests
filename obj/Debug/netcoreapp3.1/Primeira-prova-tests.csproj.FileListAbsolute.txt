@@ -89,8 +89,6 @@ P:\dev\pselpa\Primeira-prova-tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Vis
 P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.csprojAssemblyReference.cache
 P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.AssemblyInfoInputs.cache
 P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.AssemblyInfo.cs
-P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.csproj.CoreCompileInputs.cache
 P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.csproj.CopyComplete
 P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.dll
 P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.pdb
-P:\dev\pselpa\Primeira-prova-tests\obj\Debug\netcoreapp3.1\Primeira-prova-tests.genruntimeconfig.cache
